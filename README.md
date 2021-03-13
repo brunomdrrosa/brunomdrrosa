@@ -18,5 +18,3 @@ I have already learned about **HTML**, **CSS** and **Javascript** and at the mom
 [spotify]: https://open.spotify.com/user/zguardiian?si=69qs35I5Tly7yEflbPKFSg
 [steam]: https://steamcommunity.com/id/brunomdr
 [instagram]: https://www.instagram.com/brunomdr1/
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=vue-dark&animation=default&layout=default&font=default?quotesUrl=https://github.com/brunomdrrosa/github-readme-quotes/blob/main/customQuotes/category.json)
