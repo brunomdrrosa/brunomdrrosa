@@ -11,3 +11,8 @@ I have already learned about **HTML**, **CSS** and **Javascript** and at the mom
 # Programming languages
 ### Studying 📖
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+
+[linkedin]: https://linkedin.com/in/bruno-machado-da-rosa/
+[spotify]: https://open.spotify.com/user/zguardiian?si=69qs35I5Tly7yEflbPKFSg
+[steam]: https://steamcommunity.com/id/brunomdr
+[instagram]: https://www.instagram.com/brunomdr1/
