@@ -17,6 +17,6 @@ I have already learned about **HTML**, **CSS** and **Javascript** and at the mom
 [steam]: https://steamcommunity.com/id/brunomdr
 [instagram]: https://www.instagram.com/brunomdr1/
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brunomdrrosa&theme=slateorange)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomdrrosa&layout=compact&theme=dark&hide=java,typescript)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brunomdrrosa&theme=dark)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomdrrosa&layout=compact&theme=dark&hide=java,typescript)](https://github.com/anuraghazra/github-readme-stats)
 
 
