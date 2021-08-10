@@ -10,13 +10,13 @@ I have already learned about **HTML**, **CSS** and **Javascript** and at the mom
 
 # Programming languages
 ### Studying 📖
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 
 [linkedin]: https://linkedin.com/in/bruno-machado-da-rosa/
 [spotify]: https://open.spotify.com/user/zguardiian?si=69qs35I5Tly7yEflbPKFSg
 [steam]: https://steamcommunity.com/id/brunomdr
 [instagram]: https://www.instagram.com/brunomdr1/
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brunomdrrosa&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomdrrosa&layout=compact&theme=dark&hide=java,typescript,scripty&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brunomdrrosa&theme=highcontrast) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomdrrosa&layout=compact&theme=dark&hide=java,typescript,scss&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 
