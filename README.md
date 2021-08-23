@@ -1,6 +1,6 @@
 # Hey 👋🏼
 My name is **Bruno Machado** and I'm from Brazil. :brazil:
-I am studying **Computer Science** at *Centro Universitário Cesuca* and I started my studies in 2020 to become a programmer in the future. 🖱️<br/>
+I am studying **Computer Science** at *Centro Universitário Cesuca* and I started my studies in 2020 to become a programmer in the future.<br/>
 <br/>
 I have already learned about **HTML**, **CSS** and **Javascript** and at the moment I am studying **Python** and **Web Development** to get more knowledge in the programming area.
 
