@@ -4,7 +4,7 @@ I am studying **Computer Science** at *Centro Universitário Cesuca* and I start
 <br/>
 I have already learned about **HTML**, **CSS** and **Javascript** and at the moment I am studying **Python** and **Web Development** to get more knowledge in the programming area.
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]	[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">][instagram]	[<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>][spotify]	[<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>][steam]
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]	[<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>][spotify]	[<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>][steam]
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=page.id=brunomdrrosa" />
 
@@ -15,7 +15,6 @@ I have already learned about **HTML**, **CSS** and **Javascript** and at the mom
 [linkedin]: https://linkedin.com/in/bruno-machado-da-rosa/
 [spotify]: https://open.spotify.com/user/zguardiian?si=69qs35I5Tly7yEflbPKFSg
 [steam]: https://steamcommunity.com/id/brunomdr
-[instagram]: https://www.instagram.com/brunomdr1/
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brunomdrrosa&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomdrrosa&layout=compact&theme=dark&hide=java,typescript,scss&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
