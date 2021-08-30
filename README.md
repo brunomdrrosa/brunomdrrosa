@@ -6,7 +6,7 @@ I have already learned about **HTML**, **CSS** and **Javascript** and at the mom
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=page.id=brunomdrrosa" />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=brunomdrrosa)
 
 # Programming languages
 ### Studying 📖
