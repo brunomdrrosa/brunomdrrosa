@@ -31,8 +31,8 @@
 
 <p align="center">
 <a href="https://github.com/brunomdrrosa">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brunomdrrosa&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomdrrosa&layout=compact&theme=dark&hide=scss,java,typescript&langs_count=6"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=brunomdrrosa&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomdrrosa&layout=compact&theme=dark&hide=scss,java,typescript&langs_count=6"/>
 </a>
 </p>
 
