@@ -27,12 +27,14 @@
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop%20CS6-05122A?style=flat&logo=adobe-photoshop&logoColor=31A8FF)&nbsp;
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=adobe-xd&logoColor=FF61F6)&nbsp;
 
+&nbsp;
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/brunomdrrosa">
-  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=brunomdrrosa&theme=dark"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomdrrosa&layout=compact&theme=dark&hide=scss,java,typescript&langs_count=6"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=brunomdrrosa&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomdrrosa&layout=compact&theme=dark&hide=scss,java,typescript&langs_count=6"/>
 </a>
 </p>
 
