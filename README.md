@@ -44,6 +44,7 @@
 <a href="https://www.linkedin.com/in/bruno-machado-da-rosa/"><img src="https://img.shields.io/badge/-Bruno%20Machado%20da%20Rosa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:brunomdr46@gmail.com"><img src="https://img.shields.io/badge/-brunomdr46@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.behance.net/brunomdr"><img src="https://img.shields.io/badge/-/brunomdr-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://open.spotify.com/user/zguardiian?si=5d6418942824492a"><img src="https://img.shields.io/badge/-zguardiian-000000?style=flat&logo=spotify&logoColor=1DB954"/></a>
 <a href="https://br.op.gg/summoner/userName=Tyler%20Joseph"><img src="https://img.shields.io/badge/-Tyler%20Joseph%20(BR)-D32936?style=flat&logo=riotgames&logoColor=white"/></a>
 <a href="https://steamcommunity.com/id/brunomdr"><img src="https://img.shields.io/badge/-/brunomdr-000000?style=flat&logo=steam&logoColor=white"/></a>
 </p>
