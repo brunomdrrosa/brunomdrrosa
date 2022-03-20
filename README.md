@@ -2,8 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🧒🏻 &nbsp;My name is Bruno Machado and I'm a Full-Stack developer.\
-🎓 &nbsp;I'm currently studying Computer Science at Cesuca University Center.\
+🧒🏻 &nbsp;My name is Bruno Machado and I'm studying to become a Full Stack Developer\
+🎓 &nbsp;I'm currently in the third semester of Computer Science at Cesuca University Center.\
 📺 &nbsp;In my free time, I like to watch series or movies and play video games.\
 🎵 &nbsp;I also enjoy listening to music, my favorite band is **twenty one pilots**.\
 ✉️ &nbsp;You can shoot me an email at brunomdr46@gmail.com and I'll try to respond as soon as I can.
@@ -17,14 +17,18 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;\
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=orange)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse&logoColor=white)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop%20CS6-05122A?style=flat&logo=adobe-photoshop&logoColor=31A8FF)&nbsp;
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=adobe-xd&logoColor=FF61F6)&nbsp;
+![Adobe XD](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=white)&nbsp;
 
 &nbsp;
 
