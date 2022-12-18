@@ -5,7 +5,6 @@
 🧒🏻 &nbsp;My name is Bruno Machado and I'm studying to become a Full Stack Developer\
 🎓 &nbsp;I'm currently in the fifth semester of Computer Science at Cesuca University Center.\
 📺 &nbsp;In my free time, I like to watch series or movies and play video games.\
-🎵 &nbsp;I also enjoy listening to music, my favorite band is **twenty one pilots**.\
 ✉️ &nbsp;You can shoot me an email at brunomdr46@gmail.com and I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
